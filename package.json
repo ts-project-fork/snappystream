@@ -28,7 +28,7 @@
     "snappy": "^6.2.3"
   },
   "devDependencies": {
-    "mocha": "^5.2.0",
+    "mocha": "^6.2.1",
     "should": "^13.2.3"
   },
   "standard": {
